@@ -42,7 +42,7 @@ public class FlashcardApp {
         System.out.println("--order <order> Sorting type, default is \"random\"");
         System.out.println("[options: \"random\", \"worst-first\", \"recent-mistakes-first\"]");
         System.out.println("--repetitions <num> Set number of times card must be answered correctly (default: 1)");
-        System.out.println("--invertCards Reverse questions and answers (default: false)");
+        System.out.println("--invertCards Reverse questions and answers (default: false) ");
     }
 
     private static Map<String, String> loadSampleFlashcards() {
