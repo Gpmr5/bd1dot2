@@ -1,0 +1,5 @@
+Japan|2
+Italy|5
+France|5
+Germany|7
+Spain|5
